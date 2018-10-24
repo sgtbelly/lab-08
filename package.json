@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
+  "description": "![CF](http://i.imgur.com/7v5ASc8.png) LAB - Express Routing & Middleware =======================================================",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -25,5 +25,14 @@
     "require-dir": "^1.0.0",
     "supertest": "^3.3.0",
     "uuid": "^3.3.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgtbelly/lab-08.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sgtbelly/lab-08/issues"
+  },
+  "homepage": "https://github.com/sgtbelly/lab-08#readme"
 }
