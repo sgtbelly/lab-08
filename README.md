@@ -1,6 +1,6 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB - Express Routing & Middleware
 =======================================================
-https://travis-ci.org/sgtbelly/lab-08
+travis file: https://travis-ci.org/sgtbelly/lab-08
 ## Submission Instructions
 * Follow the core Lab submission instructions. This must be fully tested and deployed at Heroku
 
