@@ -21,6 +21,7 @@
     "dotenv": "^5.0.1",
     "express": "^4.16.4",
     "jest": "^23.6.0",
+    "lint": "^1.1.2",
     "morgan": "^1.9.1",
     "require-dir": "^1.0.0",
     "superagent": "^4.0.0-beta.5",
