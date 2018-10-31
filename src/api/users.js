@@ -17,7 +17,7 @@ let sendJSON = (data,response) => {
 usersRte.get('/api/v2/users', (request,response,next) => {
   users.find()
     .then( data => {
-      const outpu = {
+      const output = {
         count: data.length,
         results: data,
       };
